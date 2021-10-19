@@ -8,6 +8,10 @@ Maria was seeking to analyze performance trends and patterns using standardized 
 ### Removal of Thomas High School from Data Set
 A signficant change from the original data set is that test scores for ninth graders at Thomas High School were removed the analysis. The data was removed at the request of the schoolboard due to evidence of academic dishonesty. The focus of this report is to compare analysis of the full data set to an analysis of a version that does not include Thomas High School's ninth grade reading and math scores.
 
+This code displays where the grade percentages for Thomas High School with data that excluded their ninth grade test scores:
+![code_change_to_summary](https://user-images.githubusercontent.com/24308495/137845389-a7f9855e-43ed-488d-9ec5-c8e69311a710.PNG)
+
+
 ## Results
 
 ### •	Top Five Performing Schools
@@ -22,12 +26,32 @@ The outcomes for the bottom five performing schools were identical in both the f
 ![CHALLENGE_bottom_5_performing](https://user-images.githubusercontent.com/24308495/137844865-d8848005-e329-48d2-8bcf-ef712b4f64da.PNG)
 
 ### •	Math Scores by Grade Level
+These were the top five performing schools in the full set:
+![MODULE_math_by_grade](https://user-images.githubusercontent.com/24308495/137846184-2f1136b9-7bc2-428b-bbd4-dde68b5f3aab.PNG)
+
+These were the top five performing after Thomas High School ninth grade was removed:
+![CHALLENGE_math_by_grade](https://user-images.githubusercontent.com/24308495/137846250-b6fe45d4-c99b-4172-b0c5-ce669833b487.PNG)
+
 ### •	Reading Scores by Grade Level
+These were the top five performing schools in the full set:
+![MODULE_reading_by_grade](https://user-images.githubusercontent.com/24308495/137846227-d2d09733-354a-435c-b3d2-598fef78f2ce.PNG)
+
+These were the top five performing after Thomas High School ninth grade was removed:
+![CHALLENGE_reading_by_grade](https://user-images.githubusercontent.com/24308495/137846273-3c8184bc-9ac6-40b3-b155-08ee27280a75.PNG)
+
 ### •	Scores by School Spending per Student
+After scores were formatted, there was functionally no change in the data.
+![PER_student_spending](https://user-images.githubusercontent.com/24308495/137847096-eee847d7-dad7-4245-872c-2f895aaa29c7.PNG)
+
 ### •	Scores by School Size
+After scores were formatted, there was functionally no change in the data.
+![PER_school_size](https://user-images.githubusercontent.com/24308495/137847064-736e6790-9919-4b2a-b781-1b796566343c.PNG)
+
 ### •	Scores by School Type
+After scores were formatted, there was functionally no change in the data.
+![PER_type](https://user-images.githubusercontent.com/24308495/137847055-958e1e3b-2df9-4ebe-a998-12d5bf4192ed.PNG)
 
 ## Summary
 
-### Changes After Removing THS Ninth Grade Scores
+### Changes After Removing Thomas High School Ninth Grade Scores
 
