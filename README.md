@@ -10,13 +10,21 @@ A signficant change from the original data set is that test scores for ninth gra
 
 ## Results
 
-### •	Top 5 Performing Schools
-### •	Bottom 5 Performing Schools
+### •	Top Five Performing Schools
+These were the top five performing schools in the full set:
+![MODULE_top_5_performing](https://user-images.githubusercontent.com/24308495/137844447-3ef57a91-23e0-47c1-be79-db6246ea3f28.PNG)
+
+These were the top five performing in the challenge:
+![MODULE_top_5_performing](https://user-images.githubusercontent.com/24308495/137844481-409dc930-1913-4473-8858-439f3473429d.PNG)
+
+### •	Bottom Five Performing Schools
 ### •	Math Scores by Grade Level
 ### •	Reading Scores by Grade Level
 ### •	Scores by School Spending per Student
 ### •	Scores by School Size
 ### •	Scores by School Type
 
-## 
+## Summary
+
+### Changes After Removing THS Ninth Grade Scores
 
