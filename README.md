@@ -18,7 +18,7 @@ For example, this code displays one example of where the grade data for Thomas H
 These were the top five performing schools with the full data set:
 ![MODULE_top_5_performing](https://user-images.githubusercontent.com/24308495/137844447-3ef57a91-23e0-47c1-be79-db6246ea3f28.PNG)
 
-These were the top five performing after Thomas High School ninth grade was removed from the analysis:
+These were the top five performing after Thomas High School ninth grade was removed from the analysis:<br>
 ![CHALLENGE_top_5_performing](https://user-images.githubusercontent.com/24308495/137844682-f1686e6b-f926-4a9f-a07d-d69ef0612e34.PNG)
 
 ### •	Bottom Five Performing Schools
@@ -29,14 +29,14 @@ The outcomes for the bottom five performing schools were identical in both the f
 These were math scores by grade with the full data set:
 ![MODULE_math_by_grade](https://user-images.githubusercontent.com/24308495/137846184-2f1136b9-7bc2-428b-bbd4-dde68b5f3aab.PNG)
 
-These were math scores by grade after Thomas High School ninth grade was removed from the analysis:
+These were math scores by grade after Thomas High School ninth grade was removed from the analysis:<br>
 ![CHALLENGE_math_by_grade](https://user-images.githubusercontent.com/24308495/137846250-b6fe45d4-c99b-4172-b0c5-ce669833b487.PNG)
 
 ### •	Reading Scores by Grade Level
 These were reading scores by grade with the full data set:
 ![MODULE_reading_by_grade](https://user-images.githubusercontent.com/24308495/137846227-d2d09733-354a-435c-b3d2-598fef78f2ce.PNG)
 
-These were reading scores by grade after Thomas High School ninth grade was removed from the analysis:
+These were reading scores by grade after Thomas High School ninth grade was removed from the analysis:<br>
 ![CHALLENGE_reading_by_grade](https://user-images.githubusercontent.com/24308495/137846273-3c8184bc-9ac6-40b3-b155-08ee27280a75.PNG)
 
 ### •	Scores by School Spending per Student
@@ -54,9 +54,9 @@ After scores were formatted, there was functionally no change in the data.
 ## Summary
 
 ### Changes After Removing Thomas High School Ninth Grade Scores
-Removing Thomas High School ninth grade class from the analysis caused these changes in the analysis:
-&emsp;1. Reviewing the top 5 performing schools, Thomas High School had minor changes in the average scores and percentage passing. No change to the average scores were greater than 0.07, and no change to the percentage passing was greater than 0.35%. Dropping the ninth grade improved outcomes for "% Overall Passing" and "% Passing Reading" but it was detrimental for all other outcomes.
-&emsp;2. For the analysis that excluded Thomas High School ninth grade scores, no value was provided on the chart that shows math scores by grade. On the chart using the full data set, there is a numerical value; on the chart with ninth grade removed, NaN was inserted.
-&emsp;3. For the analysis that excluded Thomas High School ninth grade scores, no value was provided on the chart that shows reading scores by grade. On the chart using the full data set, there is a numerical value; on the chart with ninth grade removed, NaN was inserted.
-&emsp;4. For the remainder of the metrics, there were changes that were masked by formatting. Due to rounding, the changes are not apparent in the final version of the chart. However, if the chart was formatted to include more decimal places, a marginal change would become apparent. More decimal places could be displayed by using a greater numeral next to the letter "f" in this part of the code:
+Removing Thomas High School ninth grade class from the analysis caused these changes in the analysis:<br>
+&emsp;1. Reviewing the top 5 performing schools, Thomas High School had minor changes in the average scores and percentage passing. No change to the average scores were greater than 0.07, and no change to the percentage passing was greater than 0.35%. Dropping the ninth grade improved outcomes for "% Overall Passing" and "% Passing Reading" but it was detrimental for all other outcomes.<br>
+&emsp;2. For the analysis that excluded Thomas High School ninth grade scores, no value was provided on the chart that shows math scores by grade. On the chart using the full data set, there is a numerical value; on the chart with ninth grade removed, NaN was inserted.<br>
+&emsp;3. For the analysis that excluded Thomas High School ninth grade scores, no value was provided on the chart that shows reading scores by grade. On the chart using the full data set, there is a numerical value; on the chart with ninth grade removed, NaN was inserted.<br>
+&emsp;4. For the remainder of the metrics, there were changes that were masked by formatting. Due to rounding, the changes are not apparent in the final version of the chart. However, if the chart was formatted to include more decimal places, a marginal change would become apparent. More decimal places could be displayed by using a greater numeral next to the letter "f" in this part of the code:<br>
 ![code_change_to_summary](https://user-images.githubusercontent.com/24308495/137849243-bd11af03-edf7-49ba-821f-602ea0a4a4ac.PNG)
