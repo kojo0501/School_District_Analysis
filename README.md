@@ -15,7 +15,7 @@ For example, this code displays one example of where the grade data for Thomas H
 ## Results
 
 ### •	Top Five Performing Schools
-These were the top five performing schools with the full data set:
+These were the top five performing schools with the full data set:<br>
 ![MODULE_top_5_performing](https://user-images.githubusercontent.com/24308495/137844447-3ef57a91-23e0-47c1-be79-db6246ea3f28.PNG)
 
 These were the top five performing after Thomas High School ninth grade was removed from the analysis:<br>
@@ -26,14 +26,14 @@ The outcomes for the bottom five performing schools were identical in both the f
 ![CHALLENGE_bottom_5_performing](https://user-images.githubusercontent.com/24308495/137844865-d8848005-e329-48d2-8bcf-ef712b4f64da.PNG)
 
 ### •	Math Scores by Grade Level
-These were math scores by grade with the full data set:
+These were math scores by grade with the full data set:<br>
 ![MODULE_math_by_grade](https://user-images.githubusercontent.com/24308495/137846184-2f1136b9-7bc2-428b-bbd4-dde68b5f3aab.PNG)
 
 These were math scores by grade after Thomas High School ninth grade was removed from the analysis:<br>
 ![CHALLENGE_math_by_grade](https://user-images.githubusercontent.com/24308495/137846250-b6fe45d4-c99b-4172-b0c5-ce669833b487.PNG)
 
 ### •	Reading Scores by Grade Level
-These were reading scores by grade with the full data set:
+These were reading scores by grade with the full data set:<br>
 ![MODULE_reading_by_grade](https://user-images.githubusercontent.com/24308495/137846227-d2d09733-354a-435c-b3d2-598fef78f2ce.PNG)
 
 These were reading scores by grade after Thomas High School ninth grade was removed from the analysis:<br>
