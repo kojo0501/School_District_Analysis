@@ -14,10 +14,13 @@ A signficant change from the original data set is that test scores for ninth gra
 These were the top five performing schools in the full set:
 ![MODULE_top_5_performing](https://user-images.githubusercontent.com/24308495/137844447-3ef57a91-23e0-47c1-be79-db6246ea3f28.PNG)
 
-These were the top five performing in the challenge:
-![MODULE_top_5_performing](https://user-images.githubusercontent.com/24308495/137844481-409dc930-1913-4473-8858-439f3473429d.PNG)
+These were the top five performing after Thomas High School ninth grade was removed:
+![CHALLENGE_top_5_performing](https://user-images.githubusercontent.com/24308495/137844682-f1686e6b-f926-4a9f-a07d-d69ef0612e34.PNG)
 
 ### •	Bottom Five Performing Schools
+The outcomes for the bottom five performing schools were identical in both the full set and the altered set.
+![CHALLENGE_bottom_5_performing](https://user-images.githubusercontent.com/24308495/137844865-d8848005-e329-48d2-8bcf-ef712b4f64da.PNG)
+
 ### •	Math Scores by Grade Level
 ### •	Reading Scores by Grade Level
 ### •	Scores by School Spending per Student
